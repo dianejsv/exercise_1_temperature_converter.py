@@ -1,0 +1,1 @@
+# Ask the user to enter the temperature
