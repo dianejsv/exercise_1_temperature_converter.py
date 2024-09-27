@@ -8,3 +8,6 @@ print("Enter {F} " "for Celsius to Fahrenheit")
 
 # Prompt the user to select conversion type
 conversion_type = (input("\nChoose the conversion type (C/F): ")).strip().upper()
+
+# Conditional Statements
+if conversion_type == "C":
