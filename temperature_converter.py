@@ -2,3 +2,6 @@
 temperature = float(input("Enter the temperature: "))
 
 # Provide the available conversion type
+print("\nChoose conversion type:")
+print("Enter {C} " "for Fahrenheit to Celsius")
+print("Enter {F} " "for Celsius to Fahrenheit")
