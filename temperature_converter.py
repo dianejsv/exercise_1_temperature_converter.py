@@ -13,3 +13,4 @@ conversion_type = (input("\nChoose the conversion type (C/F): ")).strip().upper(
 if conversion_type == "C":
     convert = (temperature - 32) * 5 / 9  # Formula to compute °F to °C
     print(f"Your converted temperature is {round(convert, 2)}°C")
+elif conversion_type == "F":
